@@ -1,0 +1,34 @@
+div.fullname{
+    background-color: light blueviolet;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: rgb(58, 231, 5);
+}
+div.comment {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div.history{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:25px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+div.Image {
+    text-align: center;
+    
+}
+img{
+    height: 350px;
+    width: 350px;
+}
+
+
+
